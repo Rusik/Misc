@@ -5,4 +5,4 @@
 [Alcatraz](https://github.com/Rusik/Misc/wiki/Alcatraz)  
 [Riders](https://github.com/Rusik/Misc/wiki/Для%20Райдерс)  
 [Core Data](https://github.com/Rusik/Misc/wiki/Core-Data-resources)  
-[Autolayout](https://github.com/Rusik/Misc/wiki/Autolayout)
+[Auto Layout](https://github.com/Rusik/Misc/wiki/Autolayout)
