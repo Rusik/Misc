@@ -7,3 +7,4 @@
 [Core Data](https://github.com/Rusik/Misc/wiki/Core-Data-resources)  
 [Auto Layout](https://github.com/Rusik/Misc/wiki/Auto%20Layout)  
 [Разное](https://github.com/Rusik/Misc/wiki/Разное)
+[Git Flow](https://github.com/Rusik/Misc/wiki/Git-Flow)
