@@ -8,3 +8,4 @@
 [Auto Layout](https://github.com/Rusik/Misc/wiki/Auto%20Layout)  
 [Разное](https://github.com/Rusik/Misc/wiki/Разное)  
 [Git Flow](https://github.com/Rusik/Misc/wiki/Git-Flow)
+[Random data generators](https://github.com/Rusik/Misc/wiki/Random-data-generators)
