@@ -9,4 +9,5 @@
 [Разное](https://github.com/Rusik/Misc/wiki/Разное)  
 [Git Flow](https://github.com/Rusik/Misc/wiki/Git-Flow)  
 [Random data generators](https://github.com/Rusik/Misc/wiki/Random-data-generators)  
-[My pods](https://github.com/Rusik/Misc/wiki/My-Pods)
+[My pods](https://github.com/Rusik/Misc/wiki/My-Pods)  
+[Tips & Tricks](https://github.com/Rusik/Misc/wiki/Tips-&-Tricks)
